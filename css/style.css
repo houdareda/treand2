@@ -55,8 +55,8 @@ html {
   font-size: 5vw;
   color: #fff;
   margin-bottom: 10px;
-  line-height: 1.5;
-  margin-bottom: 14px;
+  line-height: 1.35;
+  margin-bottom: 12px;
   color: #131416;
   padding: 0 5px;
   position: relative;
@@ -161,12 +161,12 @@ html {
   top: 5%;
 }
 .doctor .top_image .text h4{
-  font-size: 7vw;
+  font-size: 6.7vw;
   line-height: 1.5;
   color: #DD0D13;
 }
 .doctor .top_image .text h3{
-  font-size: 7vw;
+  font-size: 6.7vw;
   color: #DD0D13;
   line-height: 1.5;
 }
@@ -247,7 +247,7 @@ html {
 
 .how_work .btm_work p{
   color: #fff;
-  font-size: 4.2vw;
+  font-size: 4.6vw;
   margin-bottom: 12px;
 }
 .how_work .btm_work .sm_div{

@@ -24,9 +24,24 @@ html {
 
 #error {
   position: relative;
-  top: -14px;
+  top: -5px;
   color: red;
   font-size: 14px;
+
+  width: max-content;
+  margin: 0 auto;
+  padding: 0 5px 3px;
+  background: #fff;
+  border-radius: 3px;
+  border: 1px solid red;
+  line-height: 1.2;
+  opacity: 0;
+  transition: 0.2s;
+
+}
+#error.active{
+  opacity: 1;
+
 }
 
 .container {
